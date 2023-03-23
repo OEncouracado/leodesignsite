@@ -1,0 +1,22 @@
+.back{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+
+
+
+
+.fundo{
+    width: 25em;
+    height: 35em;
+    background-color:aliceblue;
+    display: flex;
+    justify-content: center;
+    border-radius: 1em;
+    border-color: black;
+    border-style: solid;
+    
+}
